@@ -11,8 +11,8 @@ The sales pipeline conversion percentage at TechnoServe (a tech SaaS startup) ha
 
 ## Formulating Hypotheses
 
-```
-<img width="2900" height="3176" alt="5_Cs_Framework" src="https://github.com/user-attachments/assets/d45f098f-a101-4356-97ba-6bb83f33cb35" />
 
-```
+<img width="2900" height="3176" alt="5_Cs_Framework" src="https://github.com/user-attachments/assets/164d73cb-d58e-4eec-85db-6f24561ad0be" />
+
+
 
