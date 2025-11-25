@@ -24,4 +24,7 @@ The sales pipeline conversion percentage at TechnoServe (a tech SaaS startup) ha
 - P0 - highest
 - P4 - lowest
 
-
+## Framework used
+- 5C's marketing
+- 5W+H
+- Spin Framework
