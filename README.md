@@ -1,6 +1,12 @@
 # -SaaS-Sales-Pipeline-Conversion-Analysis
 The sales pipeline conversion percentage at TechnoServe (a tech SaaS startup) has dropped from 35% at the end of last fiscal (FY 2017-18) to 25% at present.
 
+## About Company
+- The company is located in Pune; it started its operations in 2010.
+- It has clients in Pune as well as other cities.
+- It has more than 600 employees distributed across multiple teams.
+- It offers a wide variety of IT solutions spanning different industries
+
 ## Business Problem:
 - Case study on TechnoServe, a fictitious Tech SaaS (software as a service) startup that specialises in offering various software services to small and medium enterprise customers. The products offered by the company are geared towards increasing productivity for its customers. Its software solutions are customised based on the customers’ needs and on how much they are willing to spend on a product.
 
@@ -14,5 +20,8 @@ The sales pipeline conversion percentage at TechnoServe (a tech SaaS startup) ha
 
 <img width="2900" height="3176" alt="5_Cs_Framework" src="https://github.com/user-attachments/assets/164d73cb-d58e-4eec-85db-6f24561ad0be" />
 
+### Priority
+- P0 - highest
+- P4 - lowest
 
 
